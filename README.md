@@ -1,12 +1,23 @@
 # README.md Templates
 
-Welcome to the README.md Templates documentation. This project is maintained by TMHSDigital. The goal of this project is to provide a collection of templates for README files that can be used across various repositories to ensure consistency and completeness.
+Welcome to the README.md Templates repository. This project is maintained by TMHSDigital. The goal of this project is to provide a collection of templates for README files that can be used across various repositories to ensure consistency and completeness.
 
 ## Features
 
 - Collection of README templates
 - Consistent structure for documentation
 - Easy to customize and use
+
+## Documentation
+
+This repository includes multiple documentation files to help you get started and contribute to the project. Please refer to the following files for more information:
+
+- [Template Overview](TEMPLATE_OVERVIEW.md): Overview of different template types.
+- [Usage Guide](USAGE_GUIDE.md): Detailed guide on how to use the templates.
+- [Contributing](CONTRIBUTING.md): Guidelines for contributing to the repository.
+- [Code of Conduct](CODE_OF_CONDUCT.md): Code of conduct for contributors.
+- [License](LICENSE.md): License information.
+- [Contact Us](CONTACT_US.md): Contact information.
 
 ## Technology Stack
 
@@ -72,7 +83,7 @@ We adhere to the Contributor Covenant Code of Conduct. By participating, you are
 
 # License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 # Contact Information
 
@@ -92,4 +103,3 @@ For any questions, suggestions, or feedback, feel free to reach out to us throug
 ---
 
 Thank you for your support!
-
